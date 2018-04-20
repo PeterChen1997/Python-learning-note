@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # UDP编程
 import socket,sys
 
